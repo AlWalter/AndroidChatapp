@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "565631386831",
+    "firebase_url": "https://chatandroid-b962a.firebaseio.com",
+    "project_id": "chatandroid-b962a",
+    "storage_bucket": "chatandroid-b962a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565631386831:android:d61c9cb6c0e274be",
+        "android_client_info": {
+          "package_name": "com.alisawalter.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565631386831-m0o626ihjk0l388jr1097cki322enfd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbbnCsHhfFxSfUoLogdnun68EbZ2ncHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565631386831-m0o626ihjk0l388jr1097cki322enfd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
